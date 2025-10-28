@@ -39,8 +39,8 @@ optical bands, SAR polarimetric channels, and structural height attributes.
 | 6 | L-HH | L-band SAR, HH polarization |
 | 7 | L-HV | L-band SAR, HV polarization |
 | 8 | L-VV | L-band SAR, VV polarization |
-| 9 | H | Total tree height derived from optical depth estimation |
-| 10 | hc | Canopy height (height of canopy top above trunk) |
+| 9 | H | Total tree height obtained from LiDAR data |
+| 10 | hc | Canopy height  |
 | 11 | ht | Trunk height (height of main stem or bole) |
 
 The target value (**y**) corresponds to *above-ground biomass (AGB)*  
