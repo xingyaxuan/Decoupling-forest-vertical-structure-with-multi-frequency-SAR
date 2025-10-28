@@ -1,0 +1,7 @@
+To comply with national data security regulations, the original remote sensing .tif files used in this study contain classified geographic information and therefore cannot be made publicly available.
+
+For reproducibility purposes, we have uploaded a partial dataset in which all zero-value pixels and geographic metadata have been removed. This partial dataset can be used to verify the correctness and functionality of the provided code.
+
+Researchers who wish to access the complete dataset may contact the
+Aerospace Information Research Institute, Chinese Academy of Sciences (AIR, CAS)
+and are required to sign a confidentiality agreement prior to data release.
